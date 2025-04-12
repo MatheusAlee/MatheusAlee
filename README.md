@@ -43,6 +43,12 @@ Atualmente estou estudando desenvolvimento web e explorando o mundo da programa�
 
 # Nome do Projeto
 
+/loja-flutuante
+├── index.html (loja para visitantes)
+├── admin.html (painel administrativo/backend visual)
+├── style.css (estilos compartilhados ou separados)
+└── script.js (se precisar interatividade)
+
 Descrição curta e objetiva do que o projeto faz.
 
 ## 🚀 Tecnologias
