@@ -46,8 +46,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Clone o repositório e abra o arquivo `index.html` no navegador:
 
-```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
 ![Visitantes](https://komarev.com/ghpvc/?username=SEU-USUARIO&color=blue)
+
+
+```bash
+git clone https://github.com/seu-usuario/seu-projeto.
 
 
