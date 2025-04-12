@@ -30,6 +30,11 @@ Atualmente estou estudando desenvolvimento web e explorando o mundo da programa�
 ├── index.html <br />
 ├── styles.css <br />
 └── scripts.js <br />
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
 # Nome do Projeto
 
 Descrição curta e objetiva do que o projeto faz.
