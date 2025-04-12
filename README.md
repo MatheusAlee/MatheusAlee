@@ -16,6 +16,10 @@ Atualmente estou estudando desenvolvimento web e explorando o mundo da programa�
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+
 
 ## 📫 Como me encontrar
 
@@ -25,22 +29,15 @@ Atualmente estou estudando desenvolvimento web e explorando o mundo da programa�
 - Instagran: [MatheusAlee](https://www.instagram.com/matheusalee?igsh=MXU5ejU0eDRwOHY3Yg==)
 - Telegram: [Matheus](http://t.me/GhostMenVI)
 ---
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
 
 📦 seu-projeto <br />
 ├── index.html <br />
 ├── styles.css <br />
 └── scripts.js <br />
 
-## 🧰 Tecnologias e Ferramentas
-
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
-
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
 # Nome do Projeto
 
