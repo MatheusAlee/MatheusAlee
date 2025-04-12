@@ -20,6 +20,8 @@ Atualmente estou estudando desenvolvimento web e explorando o mundo da programaÃ
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
 
 ## ðŸ“« Como me encontrar
 
