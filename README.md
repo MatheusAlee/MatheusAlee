@@ -22,7 +22,8 @@ Atualmente estou estudando desenvolvimento web e explorando o mundo da programaÃ
 - Email: [Matheus](iammatheus20@gmail.com)  
 - GitHub: [@MatheusAlee](https://github.com/MatheusAlee)  
 - LinkedIn: [Matheus](https://www.linkedin.com/in/matheus-alexandre-da-silva-ferreira-32ba28213)
-
+- Instagran: [MatheusAlee](https://www.instagram.com/matheusalee?igsh=MXU5ejU0eDRwOHY3Yg==)
+- Telegram: [Matheus](http://t.me/GhostMenVI)
 ---
 
 ðŸ“¦ seu-projeto <br />
