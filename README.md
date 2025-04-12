@@ -19,7 +19,7 @@ Atualmente estou estudando desenvolvimento web e explorando o mundo da programaÃ
 
 ## ðŸ“« Como me encontrar
 
-- Email: <button> Matheus </button> (iammatheus20@gmail.com)  
+- Email: [Matheus](iammatheus20@gmail.com)  
 - GitHub: [MatheusAlee](https://github.com/MatheusAlee)  
 - LinkedIn: [Matheus](https://www.linkedin.com/in/matheus-alexandre-da-silva-ferreira-32ba28213)
 - Instagran: [MatheusAlee](https://www.instagram.com/matheusalee?igsh=MXU5ejU0eDRwOHY3Yg==)
