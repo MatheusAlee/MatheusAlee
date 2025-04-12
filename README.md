@@ -31,6 +31,13 @@ Atualmente estou estudando desenvolvimento web e explorando o mundo da programa�
 ├── styles.css <br />
 └── scripts.js <br />
 
+## 🧰 Tecnologias e Ferramentas
+
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+
+
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
